@@ -1,3 +1,5 @@
+ssh -v -F ./138.197.147.4/ssh_config algo@2021-11-brnr
+
 git clone git@github.com:malefficient/iptraf-ng.git
 
  #iptables cheatsheet
